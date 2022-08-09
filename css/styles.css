@@ -1,0 +1,42 @@
+:root {
+    --accent-color: #2196F3;
+    --primary-text-color:#F5F5F5;
+    --secondary-text-color: #212121;
+}
+
+
+
+
+.body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color:#F5F5F5;
+}
+ul{
+    list-style: none;
+}
+
+
+  .logo {
+   color: #2196F3;
+  }
+  .logo-first {
+   color:  #000000;
+  }
+
+  /* Site nav */
+
+  .studio {
+    color: #2196F3;
+  }
+  .studio:hover,
+  .studio:focus{
+    color: green;
+  }
+  .portfolio {
+    color: #212121;
+  }
+  .contacts {
+      color: #212121;
+  }
+
